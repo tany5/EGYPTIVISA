@@ -1,0 +1,23 @@
+<div
+  class="pr-14 pl-4 bg-[#eaf1f1] rounded-[32px] flex items-center h-12 text-black rounded-b-[32px]"
+  cdkOverlayOrigin
+  #overlayPosition="cdkOverlayOrigin"
+  [ngClass]="{'opend mat-elevation-z2' : overLayService.openOverlay()}"
+>
+  <button mat-icon-button class="-mb-0.5">
+    <mat-icon>search</mat-icon>
+  </button>
+  <input
+    placeholder="Search for Products, Brand and More....."
+    class="w-full text-lg outline-none border-none bg-inherit min-w-[352px] pl-3 text-black"
+    (focus)="overLayService.openOverlay.set(true)"
+  />
+</div>
+<ng-template
+  cdkConnectedOverlay
+  [cdkConnectedOverlayOrigin]="overlayPosition"
+  [cdkConnectedOverlayOpen]="overLayService.openOverlay()"
+  (overlayOutsideClick)="overLayService.openOverlay.set(false)"
+>
+  <app-searchoverlay />
+</ng-template>

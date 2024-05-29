@@ -1,0 +1,2546 @@
+{
+  "countries": [
+    {
+      "name": "United Arab Emirates",
+      "iso2_code": "AE",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/AE",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 5950,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717087740000,
+      "visas_done_in_k": 53,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Egypt",
+      "iso2_code": "EG",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/EG",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 2350,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1717735740000,
+      "visas_done_in_k": 24,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Vietnam",
+      "iso2_code": "VN",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/VN",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 2150,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717564740000,
+      "visas_done_in_k": 27,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Singapore",
+      "iso2_code": "SG",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/SG",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 3000,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717266599999,
+      "visas_done_in_k": 11,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Hong Kong SAR China",
+      "iso2_code": "HK",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/HK",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 375,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1716995339403,
+      "visas_done_in_k": 19,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Indonesia",
+      "iso2_code": "ID",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/ID",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 5300,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717044540000,
+      "visas_done_in_k": 16,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Greece",
+      "iso2_code": "GR",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/GR",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 4999,
+      "currency": "INR",
+      "service_type": "appointment",
+      "category": "week",
+      "supported": true,
+      "eta": 1717212600403,
+      "visas_done_in_k": 7,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Azerbaijan",
+      "iso2_code": "AZ",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/AZ",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 2272,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717433340000,
+      "visas_done_in_k": 13,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Australia",
+      "iso2_code": "AU",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/AU",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 10576,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1719031740000,
+      "visas_done_in_k": 7,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Oman",
+      "iso2_code": "OM",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/OM",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 3445,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717243260000,
+      "visas_done_in_k": 17,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Japan",
+      "iso2_code": "JP",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/JP",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 3600,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1719512999999,
+      "visas_done_in_k": 21,
+      "show_afc_sticker": true
+    },
+    {
+      "name": "Malaysia",
+      "iso2_code": "MY",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/MY",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 1400,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717044540000,
+      "visas_done_in_k": 12,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Sri Lanka",
+      "iso2_code": "LK",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/LK",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 4200,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717130940000,
+      "visas_done_in_k": 37,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "China",
+      "iso2_code": "CN",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/CN",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 9750,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1718648999999,
+      "visas_done_in_k": 8,
+      "show_afc_sticker": true
+    },
+    {
+      "name": "Türkiye",
+      "iso2_code": "TR",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/TR",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 22820,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1719426599999,
+      "visas_done_in_k": 15,
+      "show_afc_sticker": true
+    },
+    {
+      "name": "Morocco",
+      "iso2_code": "MA",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/MA",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 6570,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717186860000,
+      "visas_done_in_k": 10,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Bahrain",
+      "iso2_code": "BH",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/BH",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 2771,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717566540000,
+      "visas_done_in_k": 20,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Cambodia",
+      "iso2_code": "KH",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/KH",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 3100,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717433340000,
+      "visas_done_in_k": 9,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Antigua & Barbuda",
+      "iso2_code": "AG",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/AG",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 11000,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717562940000,
+      "visas_done_in_k": 18,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Armenia",
+      "iso2_code": "AM",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/AM",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 1650,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717649340000,
+      "visas_done_in_k": 26,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Angola",
+      "iso2_code": "AO",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/AO",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 7100,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717476540000,
+      "visas_done_in_k": 6,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Burkina Faso",
+      "iso2_code": "BF",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/BF",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 8586.99,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717562940000,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Benin",
+      "iso2_code": "BJ",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/BJ",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 7000,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717562940000,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Bhutan",
+      "iso2_code": "BT",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/BT",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 21700,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717562940000,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Cyprus",
+      "iso2_code": "CY",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/CY",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 4999,
+      "currency": "INR",
+      "service_type": "appointment",
+      "category": "week",
+      "supported": true,
+      "eta": 1717731000404,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Guinea",
+      "iso2_code": "GN",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/GN",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 9200,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717735740000,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Equatorial Guinea",
+      "iso2_code": "GQ",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/GQ",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 8751.2,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717735740000,
+      "visas_done_in_k": 14,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Jordan",
+      "iso2_code": "JO",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/JO",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 5100,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717040940000,
+      "visas_done_in_k": 28,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Kenya",
+      "iso2_code": "KE",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/KE",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 2900,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717390140000,
+      "visas_done_in_k": 22,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Laos",
+      "iso2_code": "LA",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/LA",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 4200,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717434540000,
+      "visas_done_in_k": 29,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Madagascar",
+      "iso2_code": "MG",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/MG",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 1837,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717130940000,
+      "visas_done_in_k": 30,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Mongolia",
+      "iso2_code": "MN",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/MN",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 1450,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717390140000,
+      "visas_done_in_k": 5,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Papua New Guinea",
+      "iso2_code": "PG",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/PG",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 6700,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717735740000,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Qatar",
+      "iso2_code": "QA",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/QA",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 2000,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717303740000,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Russia",
+      "iso2_code": "RU",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/RU",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 4894,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717649340000,
+      "visas_done_in_k": 8,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Rwanda",
+      "iso2_code": "RW",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/RW",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 5500,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717562940000,
+      "visas_done_in_k": 22,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Saudi Arabia",
+      "iso2_code": "SA",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/SA",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 9980,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717130940000,
+      "visas_done_in_k": 9,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Taiwan",
+      "iso2_code": "TW",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/TW",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 3000,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717130940000,
+      "visas_done_in_k": 11,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Uzbekistan",
+      "iso2_code": "UZ",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/UZ",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 2651,
+      "currency": "INR",
+      "category": "week",
+      "supported": true,
+      "eta": 1717476540000,
+      "visas_done_in_k": 12,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Argentina",
+      "iso2_code": "AR",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/AR",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 16000,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1719685799999,
+      "show_afc_sticker": true
+    },
+    {
+      "name": "Austria",
+      "iso2_code": "AT",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/AT",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 4999,
+      "currency": "INR",
+      "service_type": "appointment",
+      "category": "month",
+      "supported": true,
+      "eta": 1719631800405,
+      "visas_done_in_k": 16,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Bangladesh",
+      "iso2_code": "BD",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/BD",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 2500,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1718130599999,
+      "visas_done_in_k": 25,
+      "show_afc_sticker": true
+    },
+    {
+      "name": "Belgium",
+      "iso2_code": "BE",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/BE",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 4999,
+      "currency": "INR",
+      "service_type": "appointment",
+      "category": "month",
+      "supported": true,
+      "eta": 1719545400406,
+      "visas_done_in_k": 8,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Brazil",
+      "iso2_code": "BR",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/BR",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 10890,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1718476199999,
+      "visas_done_in_k": 14,
+      "show_afc_sticker": true
+    },
+    {
+      "name": "Canada",
+      "iso2_code": "CA",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/CA",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 25000,
+      "currency": "INR",
+      "service_type": "visa",
+      "category": "month",
+      "supported": true,
+      "eta": 1720927800407,
+      "visas_done_in_k": 15,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Switzerland",
+      "iso2_code": "CH",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/CH",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 4999,
+      "currency": "INR",
+      "service_type": "appointment",
+      "category": "month",
+      "supported": true,
+      "eta": 1719545400408,
+      "visas_done_in_k": 30,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Chile",
+      "iso2_code": "CL",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/CL",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 15500,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1719463740000,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Cameroon",
+      "iso2_code": "CM",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/CM",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 432494.03,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1718858940000,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Costa Rica",
+      "iso2_code": "CR",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/CR",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 4900,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1718821799999,
+      "show_afc_sticker": true
+    },
+    {
+      "name": "Cuba",
+      "iso2_code": "CU",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/CU",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 10950,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1718821799999,
+      "show_afc_sticker": true
+    },
+    {
+      "name": "Czechia",
+      "iso2_code": "CZ",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/CZ",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 4999,
+      "currency": "INR",
+      "service_type": "appointment",
+      "category": "month",
+      "supported": true,
+      "eta": 1719545400409,
+      "visas_done_in_k": 9,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Germany",
+      "iso2_code": "DE",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/DE",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 4999,
+      "currency": "INR",
+      "service_type": "appointment",
+      "category": "month",
+      "supported": true,
+      "eta": 1722137400410,
+      "visas_done_in_k": 6,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Estonia",
+      "iso2_code": "EE",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/EE",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 4999,
+      "currency": "INR",
+      "service_type": "appointment",
+      "category": "month",
+      "supported": true,
+      "eta": 1719718200415,
+      "visas_done_in_k": 18,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Spain",
+      "iso2_code": "ES",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/ES",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 5950,
+      "currency": "INR",
+      "service_type": "appointment",
+      "category": "month",
+      "supported": true,
+      "eta": 1719545400415,
+      "visas_done_in_k": 29,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Finland",
+      "iso2_code": "FI",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/FI",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 4999,
+      "currency": "INR",
+      "service_type": "appointment",
+      "category": "month",
+      "supported": true,
+      "eta": 1719718200416,
+      "visas_done_in_k": 21,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "France",
+      "iso2_code": "FR",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/FR",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 4950,
+      "currency": "INR",
+      "service_type": "appointment",
+      "category": "month",
+      "supported": true,
+      "eta": 1719545400417,
+      "visas_done_in_k": 16,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "United Kingdom",
+      "iso2_code": "GB",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/GB",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 19950,
+      "currency": "INR",
+      "service_type": "visa",
+      "category": "month",
+      "supported": true,
+      "eta": 1720236600418,
+      "visas_done_in_k": 17,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Georgia",
+      "iso2_code": "GE",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/GE",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 6592,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1717761540000,
+      "visas_done_in_k": 18,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Ghana",
+      "iso2_code": "GH",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/GH",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 14050,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1718908199999,
+      "show_afc_sticker": true
+    },
+    {
+      "name": "Guyana",
+      "iso2_code": "GY",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/GY",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 1000,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1719377340000,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Hungary",
+      "iso2_code": "HU",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/HU",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 4999,
+      "currency": "INR",
+      "service_type": "appointment",
+      "category": "month",
+      "supported": true,
+      "eta": 1719545400419,
+      "visas_done_in_k": 14,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Israel",
+      "iso2_code": "IL",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/IL",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 12900,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1719599399999,
+      "visas_done_in_k": 19,
+      "show_afc_sticker": true
+    },
+    {
+      "name": "Italy",
+      "iso2_code": "IT",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/IT",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 4999,
+      "currency": "INR",
+      "service_type": "appointment",
+      "category": "month",
+      "supported": true,
+      "eta": 1719631800419,
+      "visas_done_in_k": 28,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Kyrgyzstan",
+      "iso2_code": "KG",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/KG",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 17500,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1718254140000,
+      "visas_done_in_k": 20,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "South Korea",
+      "iso2_code": "KR",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/KR",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 5450,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1718994599999,
+      "show_afc_sticker": true
+    },
+    {
+      "name": "Kuwait",
+      "iso2_code": "KW",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/KW",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 49500,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1719809340000,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Lebanon",
+      "iso2_code": "LB",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/LB",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 10870,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1719426599999,
+      "show_afc_sticker": true
+    },
+    {
+      "name": "Liechtenstein",
+      "iso2_code": "LI",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/LI",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 4999,
+      "currency": "INR",
+      "service_type": "appointment",
+      "category": "month",
+      "supported": true,
+      "eta": 1718767800420,
+      "visas_done_in_k": 19,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Malta",
+      "iso2_code": "MT",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/MT",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 4999,
+      "currency": "INR",
+      "service_type": "appointment",
+      "category": "month",
+      "supported": true,
+      "eta": 1719631800421,
+      "visas_done_in_k": 29,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Netherlands",
+      "iso2_code": "NL",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/NL",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 4999,
+      "currency": "INR",
+      "service_type": "appointment",
+      "category": "month",
+      "supported": true,
+      "eta": 1719545400422,
+      "visas_done_in_k": 11,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Norway",
+      "iso2_code": "NO",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/NO",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 4999,
+      "currency": "INR",
+      "service_type": "appointment",
+      "category": "month",
+      "supported": true,
+      "eta": 1719545400422,
+      "visas_done_in_k": 13,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "New Zealand",
+      "iso2_code": "NZ",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/NZ",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 17100,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1719895740000,
+      "visas_done_in_k": 21,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Philippines",
+      "iso2_code": "PH",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/PH",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 7290,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1718994599999,
+      "visas_done_in_k": 7,
+      "show_afc_sticker": true
+    },
+    {
+      "name": "Poland",
+      "iso2_code": "PL",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/PL",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 4999,
+      "currency": "INR",
+      "service_type": "appointment",
+      "category": "month",
+      "supported": true,
+      "eta": 1718767800425,
+      "visas_done_in_k": 27,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Sweden",
+      "iso2_code": "SE",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/SE",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 4999,
+      "currency": "INR",
+      "service_type": "appointment",
+      "category": "month",
+      "supported": true,
+      "eta": 1719804600426,
+      "visas_done_in_k": 27,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Slovenia",
+      "iso2_code": "SI",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/SI",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 4999,
+      "currency": "INR",
+      "service_type": "appointment",
+      "category": "month",
+      "supported": true,
+      "eta": 1718681400427,
+      "visas_done_in_k": 26,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Slovakia",
+      "iso2_code": "SK",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/SK",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 4999,
+      "currency": "INR",
+      "service_type": "appointment",
+      "category": "month",
+      "supported": true,
+      "eta": 1718681400427,
+      "visas_done_in_k": 25,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Tajikistan",
+      "iso2_code": "TJ",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/TJ",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 6901,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1718167740000,
+      "visas_done_in_k": 23,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Tanzania",
+      "iso2_code": "TZ",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/TZ",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 5540,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1718167740000,
+      "visas_done_in_k": 24,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "United States",
+      "iso2_code": "US",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/US",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "atlys_black",
+      "price": 24950,
+      "currency": "INR",
+      "service_type": "visa",
+      "category": "month",
+      "supported": true,
+      "eta": 1752118200428,
+      "visas_done_in_k": 25,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Uruguay",
+      "iso2_code": "UY",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/UY",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 6750,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1718908199999,
+      "show_afc_sticker": true
+    },
+    {
+      "name": "South Africa",
+      "iso2_code": "ZA",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/ZA",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 7050,
+      "currency": "INR",
+      "category": "month",
+      "supported": true,
+      "eta": 1719599399999,
+      "visas_done_in_k": 26,
+      "show_afc_sticker": true
+    },
+    {
+      "name": "Afghanistan",
+      "iso2_code": "AF",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/AF",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 274520.16,
+      "currency": "INR",
+      "category": "week",
+      "supported": false,
+      "eta": 1718254140000,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Botswana",
+      "iso2_code": "BW",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/BW",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 3334.45,
+      "currency": "INR",
+      "category": "week",
+      "supported": false,
+      "eta": 1717562940000,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Ethiopia",
+      "iso2_code": "ET",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/ET",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 8550,
+      "currency": "INR",
+      "category": "week",
+      "supported": false,
+      "eta": 1717476540000,
+      "visas_done_in_k": 23,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Moldova",
+      "iso2_code": "MD",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/MD",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 5471.1,
+      "currency": "INR",
+      "category": "week",
+      "supported": false,
+      "eta": 1717562940000,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Myanmar (Burma)",
+      "iso2_code": "MM",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/MM",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 7100,
+      "currency": "INR",
+      "category": "week",
+      "supported": false,
+      "eta": 1717476540000,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Mozambique",
+      "iso2_code": "MZ",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/MZ",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 3000,
+      "currency": "INR",
+      "category": "week",
+      "supported": false,
+      "eta": 1717735740000,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Nigeria",
+      "iso2_code": "NG",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/NG",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 64358,
+      "currency": "INR",
+      "category": "week",
+      "supported": false,
+      "eta": 1717649340000,
+      "visas_done_in_k": 6,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Uganda",
+      "iso2_code": "UG",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/UG",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 12450,
+      "currency": "INR",
+      "category": "week",
+      "supported": false,
+      "eta": 1717476540000,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Zimbabwe",
+      "iso2_code": "ZW",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/ZW",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 1200,
+      "currency": "INR",
+      "category": "week",
+      "supported": false,
+      "eta": 1717476540000,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Albania",
+      "iso2_code": "AL",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/AL",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 17068,
+      "currency": "INR",
+      "category": "month",
+      "supported": false,
+      "eta": 1718686140000,
+      "visas_done_in_k": 13,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Colombia",
+      "iso2_code": "CO",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/CO",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 15100,
+      "currency": "INR",
+      "category": "month",
+      "supported": false,
+      "eta": 1719550140000,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Algeria",
+      "iso2_code": "DZ",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/DZ",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 11890,
+      "currency": "INR",
+      "category": "month",
+      "supported": false,
+      "eta": 1718908199999,
+      "show_afc_sticker": true
+    },
+    {
+      "name": "Malawi",
+      "iso2_code": "MW",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/MW",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "tourism",
+      "price": 7000,
+      "currency": "INR",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562940000,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Belarus",
+      "iso2_code": "BY",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/BY",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_on_arrival",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000
+    },
+    {
+      "name": "Burundi",
+      "iso2_code": "BI",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/BI",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_on_arrival",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000
+    },
+    {
+      "name": "Cape Verde",
+      "iso2_code": "CV",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/CV",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_on_arrival",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000
+    },
+    {
+      "name": "Comoros",
+      "iso2_code": "KM",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/KM",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_on_arrival",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000
+    },
+    {
+      "name": "Djibouti",
+      "iso2_code": "DJ",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/DJ",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_on_arrival",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000
+    },
+    {
+      "name": "Guinea-Bissau",
+      "iso2_code": "GW",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/GW",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_on_arrival",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000
+    },
+    {
+      "name": "Liberia",
+      "iso2_code": "LR",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/LR",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_on_arrival",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000
+    },
+    {
+      "name": "Marshall Islands",
+      "iso2_code": "MH",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/MH",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_on_arrival",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000
+    },
+    {
+      "name": "Mauritania",
+      "iso2_code": "MR",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/MR",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_on_arrival",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000
+    },
+    {
+      "name": "Palau",
+      "iso2_code": "PW",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/PW",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_on_arrival",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000
+    },
+    {
+      "name": "St. Lucia",
+      "iso2_code": "LC",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/LC",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_on_arrival",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717649342000
+    },
+    {
+      "name": "Samoa",
+      "iso2_code": "WS",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/WS",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_on_arrival",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000
+    },
+    {
+      "name": "Seychelles",
+      "iso2_code": "SC",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/SC",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_on_arrival",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717735742000
+    },
+    {
+      "name": "Sierra Leone",
+      "iso2_code": "SL",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/SL",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_on_arrival",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000
+    },
+    {
+      "name": "Solomon Islands",
+      "iso2_code": "SB",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/SB",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_on_arrival",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000
+    },
+    {
+      "name": "Somalia",
+      "iso2_code": "SO",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/SO",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_on_arrival",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000
+    },
+    {
+      "name": "Togo",
+      "iso2_code": "TG",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/TG",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_on_arrival",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000
+    },
+    {
+      "name": "Thailand",
+      "iso2_code": "TH",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/TH",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_on_arrival",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717649342000
+    },
+    {
+      "name": "Turks & Caicos Islands",
+      "iso2_code": "TC",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/TC",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_on_arrival",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000
+    },
+    {
+      "name": "Cook Islands",
+      "iso2_code": "CK",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/CK",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717649342000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Micronesia",
+      "iso2_code": "FM",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/FM",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Gambia",
+      "iso2_code": "GM",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/GM",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Senegal",
+      "iso2_code": "SN",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/SN",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Haiti",
+      "iso2_code": "HT",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/HT",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717649342000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Barbados",
+      "iso2_code": "BB",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/BB",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Macao SAR China",
+      "iso2_code": "MO",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/MO",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Montserrat",
+      "iso2_code": "MS",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/MS",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717649342000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "St. Kitts & Nevis",
+      "iso2_code": "KN",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/KN",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "British Virgin Islands",
+      "iso2_code": "VG",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/VG",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Jamaica",
+      "iso2_code": "JM",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/JM",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Réunion",
+      "iso2_code": "RE",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/RE",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Dominica",
+      "iso2_code": "DM",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/DM",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Nepal",
+      "iso2_code": "NP",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/NP",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "El Salvador",
+      "iso2_code": "SV",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/SV",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Maldives",
+      "iso2_code": "MV",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/MV",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "North Korea",
+      "iso2_code": "KP",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/KP",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "St. Vincent & Grenadines",
+      "iso2_code": "VC",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/VC",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Mauritius",
+      "iso2_code": "MU",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/MU",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Trinidad & Tobago",
+      "iso2_code": "TT",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/TT",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717649342000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Niue",
+      "iso2_code": "NU",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/NU",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717649342000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    },
+    {
+      "name": "Fiji",
+      "iso2_code": "FJ",
+      "hero_image": {
+        "url": "https://res.cloudinary.com/dp3su7bh9/image/upload/f_auto,w_800/country_thumbnails/FJ",
+        "dimensions": {
+          "width": 4896,
+          "height": 3029
+        }
+      },
+      "purpose": "visa_free",
+      "price": 0,
+      "currency": "USD",
+      "category": "instant",
+      "supported": false,
+      "eta": 1717562942000,
+      "visas_done_in_k": 0,
+      "show_afc_sticker": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+<button mat-raised-button [matMenuTriggerFor]="menu" class="flex items-center gap-x-2" label="Example icon-button with a menu">
+    <mat-icon>account_circle</mat-icon>
+    Login
+    <mat-icon>keyboard_arrow_down</mat-icon>
+  </button>
+  <mat-menu #menu="matMenu" class="bg-primary-dark dark:!bg-primary-dark !text-white">
+    <button mat-menu-item>
+      <mat-icon>dialpad</mat-icon>
+      <span>Redial</span>
+    </button>
+    <button mat-menu-item disabled>
+      <mat-icon>voicemail</mat-icon>
+      <span>Check voice mail</span>
+    </button>
+    <button mat-menu-item>
+      <mat-icon>notifications_off</mat-icon>
+      <span>Disable alerts</span>
+    </button>
+  </mat-menu>
+  

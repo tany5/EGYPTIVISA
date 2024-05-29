@@ -1,0 +1,90 @@
+<div class="flex flex-col h-svh">
+  <main class="grow bg-white dark:bg-slate-700">
+    <mat-drawer-container class="h-full" autosize>
+      <app-header
+        (toggleSideBar)="toggleSideNav($event)"
+        [menuList1]="menuList1()"
+        [travelMenu]="travelMenu()"
+      />
+      <mat-drawer #drawer class="mobile-sidenav" mode="over">
+        <div class="pt-2 text-center">
+          <a routerLink="/" class="text-2xl font-bold uppercase text-primary dark:text-white">
+            <span>Egyptivisa</span>
+          </a>
+        </div>
+        <div class="pt-8">
+          <mat-accordion>
+            <mat-expansion-panel class="mb-3">
+              <mat-expansion-panel-header>
+                <mat-panel-title> Get my visa </mat-panel-title>
+              </mat-expansion-panel-header>
+              @for (item of menuList1(); track item) {
+              <button
+                class="flex items-center px-4 py-2 min-w-[120px] gap-x-2 hover:bg-slate-200 w-full"
+              >
+                <img
+                  [alt]="item.name"
+                  [ngSrc]="item.code"
+                  width="20"
+                  height="20"
+                />
+                <span class="!text-black dark:!text-white">{{
+                  item.name
+                }}</span>
+              </button>
+              }
+            </mat-expansion-panel>
+            <!--Menu 2-->
+            <mat-expansion-panel class="mb-3">
+              <mat-expansion-panel-header>
+                <mat-panel-title> Renew my passport </mat-panel-title>
+              </mat-expansion-panel-header>
+              @for (item of menuList1(); track item) {
+              <button
+                class="flex items-center px-4 py-2 min-w-[120px] gap-x-2 hover:bg-slate-200 w-full"
+              >
+                <img
+                  [alt]="item.name"
+                  [ngSrc]="item.code"
+                  width="20"
+                  height="20"
+                />
+                <span class="!text-black dark:!text-white">{{
+                  item.name
+                }}</span>
+              </button>
+              }
+            </mat-expansion-panel>
+            <!--menu 3-->
+
+            <mat-expansion-panel>
+              <mat-expansion-panel-header>
+                <mat-panel-title> Travel confidently </mat-panel-title>
+              </mat-expansion-panel-header>
+              @for (item of menuList1(); track item) {
+              <button
+                class="flex items-center px-4 py-2 min-w-[120px] gap-x-2 hover:bg-slate-200 w-full"
+              >
+                <img
+                  [alt]="item.name"
+                  [ngSrc]="item.code"
+                  width="20"
+                  height="20"
+                />
+                <span class="!text-black dark:!text-white">{{
+                  item.name
+                }}</span>
+              </button>
+              }
+            </mat-expansion-panel>
+            <!-- Menu 3-->
+          </mat-accordion>
+        </div>
+      </mat-drawer>
+      <div class="w-full mt-[55px]">
+        <router-outlet />
+      </div>
+    </mat-drawer-container>
+  </main>
+  <app-footer />
+</div>

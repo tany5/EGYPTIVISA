@@ -1,0 +1,9 @@
+::ng-deep {
+  .mat-expansion-panel {
+    @apply mb-2;
+  }
+}
+
+:host {
+    --mat-expansion-header-indicator-color: (0,0,0,0.8) !important; /* Replace 'your-color-value' with the desired color */
+  }
